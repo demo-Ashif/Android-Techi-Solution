@@ -1,0 +1,5 @@
+Android emulator creating from AVD is slow even in good pc configuration. This lag is possible to optimize by downloading system image but not very helpful.
+So better solution is Genymotion
+It provides virtual device which is really first
+Get it from http://www.genymotion.com/ by signing up . Its free for using personal cause
+Just create device after installation. 
